@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace SignalRTest.Sjavs
+{
+    public enum Number
+    {
+        Seven, Eight, Nine, Ten, Jack, Queen, King, Ace
+    }
+}
